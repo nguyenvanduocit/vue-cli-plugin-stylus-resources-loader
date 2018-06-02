@@ -1,0 +1,8 @@
+{
+  "name": "vue-cli-plugin-stylus-resources-loader",
+  "version": "0.1.2",
+  "description": "An Vue CLI plugin that support stylus resources loader out of the box.",
+  "main": "index.js",
+  "author": "nguyenvanduocit@gmail.com",
+  "license": "MIT"
+}
